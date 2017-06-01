@@ -1,0 +1,8 @@
+{
+  "framerate": 1.5,
+  "images": ["NewPiskel.png"],
+  "frames": {"width":32, "height":32, "regX":0, "regY":0},
+  "animations": {
+    "sunny": [0,2]
+  }
+}

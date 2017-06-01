@@ -1,0 +1,8 @@
+{
+  "framerate": 6,
+  "images": ["bird2.png"],
+  "frames": {"width":179, "height":170, "regX":0, "regY":0},
+  "animations": {
+    "flying": [0,3]
+  }
+}

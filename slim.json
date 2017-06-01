@@ -1,0 +1,11 @@
+{
+  "framerate": 8,
+  "images": ["meganbedtime.png"],
+  "frames": {"width":32, "height":48, "regX":0, "regY":0},
+  "animations": {
+    "down": [0,3],
+    "left": [4,7],
+    "right":[8,11],
+    "up":[12,15]
+  }
+}
